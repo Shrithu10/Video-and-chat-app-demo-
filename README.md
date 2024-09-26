@@ -84,9 +84,10 @@ SecureLink is developed in phases to ensure comprehensive feature integration an
 
 ## Submission Details
 
-This document is a submission for the [Hackathon Name] hackathon. Below are the details for submission:
+This document is a submission for the Ethos 2024 hackathon. Below are the details for submission:
 
-- **Team Name**: [Your Team Name]
+- **Team Name**: bytebyte
 - **Hackathon Theme**: Privacy and Security in Digital Communication
-- **Submission Date**: [Date]
+- **Submission Date**: 27th September 2024
 
+![image](https://github.com/user-attachments/assets/c6fd2598-3e10-4f17-9189-3f64dbcacdf3)
